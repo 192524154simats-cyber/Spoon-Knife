@@ -25,4 +25,6 @@ Changes made:
 \- Practised Git branching
 
 \- Learned the pull request workflow
+## Main Branch Update
 
+This change was made directly in the main branch.
