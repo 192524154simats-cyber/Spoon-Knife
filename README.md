@@ -26,3 +26,13 @@ Changes made:
 
 \- Learned the pull request workflow
 
+\## Git Branching Project
+
+
+
+This project demonstrates Git branching and merge conflict resolution.
+
+
+
+Created a new feature branch named feature-update.
+
