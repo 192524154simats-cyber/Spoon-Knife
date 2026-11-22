@@ -28,3 +28,6 @@ Changes made:
 ## Main Branch Update
 
 This change was made directly in the main branch.
+## New Feature
+This update was added using a separate feature branch.
+It demonstrates collaborative development using GitHub.
